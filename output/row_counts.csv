@@ -1,0 +1,7 @@
+step,rows
+rows_read,60918
+rows_with_labs,59977
+rows_unique,59486
+visits_dropped,415
+hba1c_blanked,61
+weight_blanked,46

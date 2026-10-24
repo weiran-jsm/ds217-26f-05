@@ -1,0 +1,7 @@
+rule,failing_rows
+patient_id_format,116
+visit_date_present,299
+gender_valid,337
+hba1c_in_range,62
+weight_in_range,47
+glucose_within_fences,859

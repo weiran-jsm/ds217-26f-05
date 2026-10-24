@@ -1,0 +1,12 @@
+indicator,visits
+clinic_Bayview,8895
+clinic_Excelsior,13412
+clinic_Mission,21004
+clinic_Sunset,15937
+clinic_Unknown,238
+gender_F,31284
+gender_M,26634
+gender_X,1231
+a1c_category_normal,8531
+a1c_category_prediabetes,17069
+a1c_category_diabetes,29918

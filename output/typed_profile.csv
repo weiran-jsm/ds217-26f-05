@@ -1,0 +1,6 @@
+column,dtype,missing_count,min,max,mean
+age,Int64,236,21,94,58.59
+glucose_mg_dl,float64,3226,55.0,407.0,145.03
+hba1c_pct,float64,3907,3.9,99.0,6.77
+visit_date,datetime64[us],299,2024-01-02 00:00:00,2026-06-30 00:00:00,
+weight_kg,float64,940,29.9,1258.0,87.43

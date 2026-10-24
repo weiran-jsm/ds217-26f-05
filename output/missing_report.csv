@@ -1,0 +1,9 @@
+column,missing_count,missing_pct
+patient_id,0,0.0
+visit_date,196,0.3
+clinic,248,0.4
+gender,117,0.2
+age,93,0.2
+weight_kg,364,0.6
+hba1c_pct,4882,8.0
+glucose_mg_dl,3741,6.1
